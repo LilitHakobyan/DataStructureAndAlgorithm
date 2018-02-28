@@ -21,6 +21,8 @@ namespace MaxElement
         }
         static void Main(string[] args)
         {
+            int[] arr = {1,2,5,10,11};
+            Console.WriteLine(MaxArr(arr,0,4));
         }
     }
 }
