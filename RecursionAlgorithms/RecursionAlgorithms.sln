@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi", "Fibonachi\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxElement", "MaxElement\MaxElement.csproj", "{8573FF74-B6B4-4CE4-828E-996A7F98C828}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryStatue", "CountryStatue\CountryStatue.csproj", "{F8A764A1-419E-4E21-939C-354504743419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8573FF74-B6B4-4CE4-828E-996A7F98C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8573FF74-B6B4-4CE4-828E-996A7F98C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8573FF74-B6B4-4CE4-828E-996A7F98C828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A764A1-419E-4E21-939C-354504743419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A764A1-419E-4E21-939C-354504743419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A764A1-419E-4E21-939C-354504743419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A764A1-419E-4E21-939C-354504743419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
