@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace BinarySearch
 {
+   
     class Program
     {
+       
         public static int BS(int[] arr,int first,int last, int k)
         {
             if (last >= first)
@@ -24,8 +26,16 @@ namespace BinarySearch
         }
         static void Main(string[] args)
         {
+            int x = 5;
+            object ob = x;
+            int y =  (int)x;
+
             int[] arr = {1,5,8,9,78,95,489};
-            Console.WriteLine(BS(arr,0,arr.Length-1,5));
+            Console.WriteLine(BS(arr, 0, arr.Length - 1, 5));
+
+          
+
+       
         }
     }
 }
